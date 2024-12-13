@@ -1,0 +1,26 @@
+.home-background {
+  background-image: url('/public/mountain.jpg'); /* Path relative to the public directory */
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.home-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Dim and transparency effect */
+  z-index: 1;
+}
+
+.home-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+  color: #fff;
+}
