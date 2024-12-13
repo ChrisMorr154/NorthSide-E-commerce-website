@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>PO9093823444</OrderID>
+      <CustomerName>Bill Smith</CustomerName>
+      <ShiptoName>DC A</ShiptoName>
+      <Address>23 st ave</Address>
+      <City>acity</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98121</ZipCode>
+      <TotalAmount>$385.00</TotalAmount>
+      <CreatedDate>2024-06-06T20:27:34.358Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c29f71303d780458c5f29</ProductID>
+          <Title>Snohomish Mid</Title>
+          <Quantity>4</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>665517d488c0706081681f78</ProductID>
+          <Title>Burke 4.0</Title>
+          <Quantity>3</Quantity>
+          <Price>35</Price>
+      </Item>
+    
+      </Items>
+  </Order>

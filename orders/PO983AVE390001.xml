@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>PO983AVE390001</OrderID>
+      <CustomerName>Corporation A</CustomerName>
+      <ShiptoName>DISTRIBUTION CENTER 1</ShiptoName>
+      <Address>343 23 St</Address>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98121</ZipCode>
+      <TotalAmount>$865.00</TotalAmount>
+      <CreatedDate>2024-06-06T20:34:15.257Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c2bd51303d780458c5f2b</ProductID>
+          <Title>Belmont Trek </Title>
+          <Quantity>12</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>6655189f88c0706081681f7c</ProductID>
+          <Title>Phoenix</Title>
+          <Quantity>1</Quantity>
+          <Price>25</Price>
+      </Item>
+    
+      </Items>
+  </Order>

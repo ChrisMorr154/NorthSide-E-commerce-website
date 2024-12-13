@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>PO367837EC3842</OrderID>
+      <CustomerName>ABS Corporation</CustomerName>
+      <ShiptoName>Distribution Center 1</ShiptoName>
+      <Address>123 St Ave</Address>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98121</ZipCode>
+      <TotalAmount>$350.00</TotalAmount>
+      <CreatedDate>2024-06-06T12:00:12.980Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c2bd51303d780458c5f2b</ProductID>
+          <Title>Snohomish Mid</Title>
+          <Quantity>5</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      </Items>
+  </Order>

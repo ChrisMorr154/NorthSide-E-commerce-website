@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>P9871000001</OrderID>
+      <CustomerName>Corporation ABC</CustomerName>
+      <ShiptoName>Distribution Center 1</ShiptoName>
+      <Address>123 st ave</Address>
+      <City>Unknown City</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98232</ZipCode>
+      <TotalAmount>$320.00</TotalAmount>
+      <CreatedDate>2024-06-10T04:22:31.997Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c2bd51303d780458c5f2b</ProductID>
+          <Title>Belmont Trek </Title>
+          <Quantity>2</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>664c2c521303d780458c5f2d</ProductID>
+          <Title>Gresham Low</Title>
+          <Quantity>4</Quantity>
+          <Price>45</Price>
+      </Item>
+    
+      </Items>
+  </Order>

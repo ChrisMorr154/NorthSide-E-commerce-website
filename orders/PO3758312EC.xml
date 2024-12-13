@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>PO3758312EC</OrderID>
+      <CustomerName>Bill Smith</CustomerName>
+      <ShiptoName>DC 23</ShiptoName>
+      <Address>3424 AStreet st</Address>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98121</ZipCode>
+      <TotalAmount>$2345.00</TotalAmount>
+      <CreatedDate>2024-06-06T11:52:19.919Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c2bd51303d780458c5f2b</ProductID>
+          <Title>Snohomish Mid</Title>
+          <Quantity>32</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>664c2c521303d780458c5f2d</ProductID>
+          <Title>Gresham Low</Title>
+          <Quantity>1</Quantity>
+          <Price>45</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>664c2cba1303d780458c5f2f</ProductID>
+          <Title>Cedar Rapids</Title>
+          <Quantity>1</Quantity>
+          <Price>60</Price>
+      </Item>
+    
+      </Items>
+  </Order>

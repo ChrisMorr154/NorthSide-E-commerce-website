@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Order>
+      <OrderID>9838019239188</OrderID>
+      <CustomerName>Corporation A</CustomerName>
+      <ShiptoName>DISTRIBUTION CENTER 1</ShiptoName>
+      <Address>123 St Ave</Address>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Country>USA</Country>
+      <ZipCode>98121</ZipCode>
+      <TotalAmount>$255.00</TotalAmount>
+      <CreatedDate>2024-06-06T20:45:09.136Z</CreatedDate>
+      <Items>
+          
+      <Item>
+          <ProductID>664c29f71303d780458c5f29</ProductID>
+          <Title>Snohomish Mid</Title>
+          <Quantity>2</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>664c2bd51303d780458c5f2b</ProductID>
+          <Title>Belmont Trek </Title>
+          <Quantity>1</Quantity>
+          <Price>70</Price>
+      </Item>
+    
+      <Item>
+          <ProductID>664c2c521303d780458c5f2d</ProductID>
+          <Title>Gresham Low</Title>
+          <Quantity>1</Quantity>
+          <Price>45</Price>
+      </Item>
+    
+      </Items>
+  </Order>
