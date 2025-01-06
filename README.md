@@ -27,6 +27,19 @@ Built with modern web technologies, this platform ensures high performance, scal
 **Login**
 ![Project Screenshot](Screenshots/Login.png)
 
+**Home Page**
+![Project Screenshot](Screenshots/MainScreen.png)
+
+**Cart**
+![Project Screenshot](Screenshots/Cart.png)
+
+**Shipping Information**
+![Project Screenshot](Screenshots/Shipping.png)
+
+**Orders**
+![Project Screenshot](Screenshots/Orders.png)
+![Project Screenshot](Screenshots/XML.png)
+
 ---
 
 ## Directory Structure
