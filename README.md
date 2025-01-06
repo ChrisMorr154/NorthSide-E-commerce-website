@@ -26,14 +26,16 @@ Welcome to the repository for the **NorthSide** a Full-Stack E-Commerce Website!
 
 ## Directory Structure
 
-'''
+```
 project-folder/
-├── backend                 # contents contain all files for the application backend
-├── node_modules            # Dependencies
-├── NorthSide               # contents contain all files for the frontend
-├── orders                  # order records
-└── README.md               # Project documentation
-'''
+├── index.html      # Main entry point
+├── css/            # Stylesheets
+│   ├── styles.css  # Main stylesheet
+├── js/             # JavaScript files
+│   ├── script.js   # Main script
+├── assets/         # Images and other media
+└── README.md       # Project documentation
+```
  
 ---
 
