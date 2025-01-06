@@ -63,8 +63,20 @@ project-folder/
     cd Northside
     npm start
 
+---
 
+## Future Enhancements
+- **Payment Integration**: Add secure payment gateways (e.g., Stripe, PayPal).
+- **Order Tracking**: Enable real-time order status updates.
+- **Analytics Dashboard**: Provide detailed analytics for admin users.
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 
 
