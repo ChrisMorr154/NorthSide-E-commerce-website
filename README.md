@@ -25,7 +25,7 @@ Built with modern web technologies, this platform ensures high performance, scal
 ## Preview
 
 **Login**
-![Project Screenshot](Screenshots/login)
+![Project Screenshot](Screenshots/login.png)
 
 ---
 
