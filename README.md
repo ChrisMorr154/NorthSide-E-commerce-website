@@ -16,13 +16,16 @@ Built with modern web technologies, this platform ensures high performance, scal
 
 ---
 
-## Preview
-
----
-
 ## Technologies Used
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)![JWT](https://img.shields.io/badge/jwt-%23FF8000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Preview
+
+**Login**
+![Project Screenshot](Screenshots/login)
 
 ---
 
