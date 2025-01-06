@@ -1,6 +1,8 @@
 # NorthSide-E-commerce-website
 
-Welcome to the repository for the **NorthSide** a Full-Stack E-Commerce Website! This project demonstrates a comprehensive e-commerce platform, built with modern technologies, offering a seamless shopping experience for users and powerful management features for administrators.
+This repository houses the development of a cutting-edge full-stack e-commerce application for **Northside**. As a premier shoe company in the **PNW**, NorthSide is dedicated to providing stylish, high-quality footwear to customers worldwide. This project embodies NorthSide's vision by delivering a seamless, user-friendly digital shopping experience for customers while equipping administrators with robust tools for efficient management.
+
+Built with modern web technologies, this platform ensures high performance, scalability, and an intuitive interface tailored to meet the needs of both shoppers and the business.
 
 ---
 
