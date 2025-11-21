@@ -46,7 +46,7 @@ Built with modern web technologies, this platform ensures high performance, scal
 
 ```
 project-folder/
-├── backend                 # contents contain all files for the application backend
+├── server                 # contents contain all files for the application backend
 ├── node_modules            # Dependencies
 ├── NorthSide               # contents contain all files for the frontend
 ├── orders                  # order records
